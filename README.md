@@ -1,5 +1,7 @@
 # Task tracker is a project used to track and manage your tasks.
-Sample solution for the [task-tracker](https://roadmap.sh/projects/task-tracker) challenge from [roadmap.sh](https://roadmap.sh/projects/task-tracker).
+
+Sample solution for the [task-tracker](https://roadmap.sh/projects/task-tracker) challenge from [roadmap.sh](https://roadmap.sh/).
+
 ## To run on your local machine:
 
 1. Cloe this repository:
