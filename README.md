@@ -6,10 +6,10 @@
    Open your termial and write:
 
 ```
-git clone
+git clone https://github.com/bruno-keiko/task-tracker-cli
 ```
 
-2. Got to task_tracker workspace:
+2. Go to task-tracker-cli workspace:
 
 ```
 cd task_tracker
@@ -28,6 +28,7 @@ npm link
 ```
 
 you can add tasks, for example:
+
 ```
 # Adding a new task
 
